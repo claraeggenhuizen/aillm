@@ -1,6 +1,6 @@
 #This file contains the code to collect and visualize the Reddit data
-#It requires a prior authorization by Reddit to access the API as well as a config file with the credentials, neither of which are on GitHub because they contain
-#my personal information (client secret, username, password, etc)
+#It requires a prior authorization by Reddit to access the API as well as a config file with the credentials
+#neither of which are on GitHub because they contain my personal information (client secret, username, password, etc)
 
 #importing libraries
 import praw
